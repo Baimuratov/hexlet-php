@@ -1,0 +1,11 @@
+{
+    "name": "baimuratov/hexlet-php",
+    "description": "Study project",
+    "authors": [
+        {
+            "name": "Farkhat Baimuratov",
+            "email": "email@fb.ru"
+        }
+    ],
+    "require": {}
+}
