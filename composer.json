@@ -1,5 +1,10 @@
 {
     "name": "baimuratov/hexlet-php",
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
     "description": "Study project",
     "authors": [
         {
